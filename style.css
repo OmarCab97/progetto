@@ -1,0 +1,55 @@
+.bigdad {
+    color:hsl(300, 44%, 55%);
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 100px;
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    border:10px solid;
+    
+    
+}
+.bigdad span {
+    color: rgb(243, 181, 24);
+    
+    
+}
+.bigmama{
+    color: coral;
+    background-color: khaki;
+    
+    
+}
+
+.Ancora{
+    background-color: aquamarine;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: burlywood;
+    
+    
+}
+
+.topogigio {
+color: rgb(255, 255, 255);
+background-color: darkblue;
+
+}
+
+.marionetta{
+    font-size: 30px;
+}
+
+.babilonia{
+    font-size: 1em;
+    background-color: darkseagreen;
+    color: rgb(57, 115, 122);
+    border: 10px;
+}
+
+
+
+
+
+
+
+    
